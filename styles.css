@@ -1,1 +1,14 @@
-/* This will contain the styling for your pages. Both HTML files can link to the same css file. */
+main {
+  display: flex;
+  gap: 20px;
+}
+
+.form-container {
+  flex: 1;
+}
+
+.side-content {
+  width: 300px;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
